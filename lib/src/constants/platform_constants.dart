@@ -1,0 +1,11 @@
+const PORTUGUESE_LANGUAGE_CODE = "pt";
+
+const ENGLISH_LANGUAGE_CODE = "en";
+
+const FRENCH_LANGUAGE_CODE = "fr";
+
+const GERMAN_LANGUAGE_CODE = "de";
+
+const ITALIAN_LANGUAGE_CODE = "it";
+
+const SPANISH_LANGUAGE_CODE = "es";
